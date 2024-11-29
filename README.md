@@ -60,7 +60,8 @@
 
 ## SW 아키텍처
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/29dd0948-7b38-443b-af5a-c6bc908226ab/d6b5a996-8092-4bee-89c6-a93a2e0e9886/63c239a7-f246-4eb2-9086-1bc514f97153.png)
+![image](https://github.com/user-attachments/assets/be65ecca-060a-4132-8e79-dda369333d90)
+
 
 ## 주요 기능
 
@@ -150,7 +151,8 @@ $ docker compose -f docker-compose.yaml up   # 다운로드 받은 docker 이미
 
 ## [전체 결과물 보기]
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/29dd0948-7b38-443b-af5a-c6bc908226ab/ba423a06-b6e9-46cb-aa1c-fee979668af1/image.png)
+![image](https://github.com/user-attachments/assets/4c8a6a52-0a34-4533-b7cf-9ccc4eb31f37)
+
 
 
 https://9d7ac61c.us2a.app.preset.io/superset/dashboard/p/1MrwGm6yg95/
@@ -178,7 +180,7 @@ https://github.com/DataKkagdugi/Stock_ETL
 
 | 이름 | 역할 |
 | --- | --- |
-| 김경준 | DAG 작성,  |
+| 김경준 | DAG 작성, Preset 시각화 |
 | 김정희 | DAG 작성,  |
 | 김효정 | DAG 작성, Preset 시각화, Preset 데이터베이스 연결 |
 | 배동제 | AWS 환경설정, DAG 작성, Preset 차트 생성 |
