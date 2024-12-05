@@ -181,7 +181,7 @@ https://github.com/DataKkagdugi/Stock_ETL
 | 이름 | 역할 |
 | --- | --- |
 | 김경준 | DAG 작성, Preset 시각화 |
-| 김정희 | DAG 작성,  |
+| 김정희 | DAG 작성, Preset 시각화 |
 | 김효정 | DAG 작성, Preset 시각화, Preset 데이터베이스 연결 |
 | 배동제 | AWS 환경설정, DAG 작성, Preset 차트 생성 |
 | 이상훈 | DAG 작성,  |
